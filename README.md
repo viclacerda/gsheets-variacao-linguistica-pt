@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/viclacerda/py-desafio-ifood-pt/blob/main/ifood-challenge.png" >
+  <img src="https://github.com/viclacerda/gsheets-variacao-linguistica-pt/blob/main/varia%C3%A7%C3%A3o-pt-br.png" >
 </p>
 
 <h2 align="center">
