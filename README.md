@@ -1,0 +1,1 @@
+# gsheets-variacao-linguistica-pt
