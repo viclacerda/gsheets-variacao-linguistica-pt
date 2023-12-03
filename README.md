@@ -22,7 +22,7 @@
 ## Estrutura do repositório
 
 - Veja os dados utilizados [PASTA DO CORPUS - CORTES PRAAT](https://github.com/viclacerda/py-desafio-ifood-pt/blob/main/mkt_data.csv](https://github.com/viclacerda/gsheets-variacao-linguistica-pt/tree/main/arquivos-praat )
-- Leia o tabelas do projeto [TABELA DE ANÁLISE](colocar link do projeto).
+- Leia o tabelas do projeto [TABELA DE ANÁLISE](https://docs.google.com/spreadsheets/d/1mRhX_sRjR6TzUMAj75-Fvd9nAuMMtk_VERQo5tHvYTE/edit?usp=sharing).
 
 ## Contexto
 
